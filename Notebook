@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title> BICYCLES</title>
+ </head>
+<body>
+    <img src="logo.png" width="90" style="float:left" />
+    <h1>BICYCLES</h1>
+   
+    <img src="mar.png" width="500"/> </br>
+   
+    <h3>Best selling bicycles in India</h3>
+  
+    <ol type="a">
+    <li>  ATLAS CYCLES   </li>
+    <li>  AVON   </li>
+    <li>  HERO MOTOCORP   </li>
+    <li>  HERO CYCLES  </li>
+    <li> HERCULES </li>
+    </ol>
+    
+   <a href="upcoming.html">sales</a>  </br>
+   
+   <a href="visit.html">More from us</a>
+
+   
+   <!DOCTYPE html>
+<html>
+ <head>
+   <title> BICYCLES   </title>
+ </head>
+<body>
+
+    <h3><i><b>Price and specifications</b></i></h3>
+
+    <table border="4" bordercolor="yellow" cellpadding="20" cellspacing="8" width="70%" bgcolor="green">
+   
+    <tr>
+    <th>BRAND </th>
+    <th>GUARANTEE </th>
+   
+    <th>PRICE</th>
+    </tr>
+
+    <tr>
+    <td>  ATLAS CYCLES  </td>
+    <td>5 YEARS</td>
+   
+    <td>5000 RS</td>
+    </tr>
+
+    
+    <tr>
+    <td> AVON  </td>
+    <td> 6 YEARS</td>
+   
+    <td>8000 RS</td>
+    </tr>
+
+    <tr>
+    <td> HERO MOTOCORP</td>
+    <td> 4 YEARS </td>
+   
+    <td>8000 RS</td>
+    </tr>
+
+    <tr>
+    <td> HERO CYCLE</td>
+    <td> 4 YEARS </td>
+    
+    <td>4500 RS</td>
+    </tr>
+
+    <tr>
+    <td> HERCULES </td>
+    <td> 8 YEARS  </td>
+
+    <td> 6000 RS </td>
+    </tr>
+
+    </table>
+    <a href="register.html">Book a test ride  now!!
+</a>
+    
+</body>
+</html>
+
+    
+
+
+    
+    
+</body>
+</html>
